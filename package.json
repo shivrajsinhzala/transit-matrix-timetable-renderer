@@ -1,0 +1,35 @@
+{
+  "name": "transit-matrix-timetable-renderer",
+  "version": "1.0.0",
+  "description": "Accessible HTML5/CSS grid transit timetable component for modern web apps with responsive stop-by-stop matrices.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "keywords": [
+    "transit",
+    "timetable",
+    "schedule-matrix",
+    "html5",
+    "accessibility",
+    "css-grid",
+    "gtfs",
+    "responsive-design",
+    "stopwatch-transit",
+    "headway"
+  ],
+  "author": "Shivrajsinh Zala <zalashivraj2642003@gmail.com>",
+  "license": "MIT",
+  "homepage": "https://transit.shivrajsinh.in",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shivrajsinhzala/transit-matrix-timetable-renderer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shivrajsinhzala/transit-matrix-timetable-renderer/issues"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
