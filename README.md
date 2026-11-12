@@ -24,6 +24,18 @@ This component powers schedule displays across:
 - 🚆 **[Stopwatch Transit](https://transit.shivrajsinh.in)**: Free, real-time bus and train timetable tracker with live vehicle updates.
 - ⏱️ **[Headway](https://headway.shivrajsinh.in)**: Commuter headway regularity analytics, bunching detection, and wait-time indexing.
 
+### 🌐 Live Production Corridor Timetables
+View this timetable matrix component in production across real-world transit networks:
+- 🇦🇺 **TransLink Brisbane Route 272**: [Stopwatch Route 272 Timetable](https://transit.shivrajsinh.in/au/brisbane/route-272) &bull; [Headway Route 272 Regularity Profile](https://headway.shivrajsinh.in/au/brisbane/route-272)
+- 🇦🇺 **Adelaide Metro Route 110**: [Stopwatch Route 110 Schedule](https://transit.shivrajsinh.in/au/adelaide/route-110) &bull; [Headway Route 110 Timetable](https://headway.shivrajsinh.in/au/adelaide/route-110)
+- 🇦🇺 **Adelaide Metro Route 400**: [Headway Route 400 Timetable](https://headway.shivrajsinh.in/au/adelaide/route-400)
+- 🇦🇺 **Adelaide Metro Route 405**: [Headway Route 405 Schedule](https://headway.shivrajsinh.in/au/adelaide/route-405)
+- 🇦🇺 **TransLink Brisbane Route 204**: [Stopwatch Route 204 Bus Route](https://transit.shivrajsinh.in/au/brisbane/route-204) &bull; [Headway Route 204](https://headway.shivrajsinh.in/au/brisbane/route-204)
+- 🇦🇺 **TransLink Brisbane Route 227**: [Stopwatch Route 227 Timetable](https://transit.shivrajsinh.in/au/brisbane/route-227) &bull; [Headway Route 227](https://headway.shivrajsinh.in/au/brisbane/route-227)
+- 🇦🇺 **TransLink Brisbane Route 132**: [Stopwatch Route 132 Bus Schedule](https://transit.shivrajsinh.in/au/brisbane/route-132) &bull; [Headway Route 132](https://headway.shivrajsinh.in/au/brisbane/route-132)
+- 🇦🇺 **Adelaide Metro Route 252**: [Stopwatch Route 252 Timetable](https://transit.shivrajsinh.in/au/adelaide/route-252) &bull; [Headway Route 252](https://headway.shivrajsinh.in/au/adelaide/route-252)
+- 🇦🇺 **TransLink Brisbane Route 390**: [Headway Route 390 Bus Route](https://headway.shivrajsinh.in/au/brisbane/route-390)
+
 ---
 
 ## 📦 Installation
